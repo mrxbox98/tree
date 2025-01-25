@@ -1,3 +1,5 @@
+# pip3 install -q -U google-generativeai
+
 import google.generativeai as genai
 
 api_key = "" # go to https://docs.google.com/document/d/1QcAMJKvMPwxMO1G_pKUr9XzOeZturz-Ikk0yMArQH7c/edit?usp=sharing to find the api key
