@@ -6,11 +6,12 @@
 
 <style>
     button {
-        width: 50px;
+        width: 55px;
         background-color: #49cc9a;
         border: none;
         border-radius: 10px;
         margin: 10px 0;
         padding: 10px;
+        color: white;
     }
 </style>
