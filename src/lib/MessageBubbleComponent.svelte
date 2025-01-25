@@ -13,7 +13,7 @@
     }
 </script>
 
-<div class="container">
+<div class="flex">
     <div class="bubble {type}" style="background-color: {color};">
         {content}
     </div>
@@ -21,9 +21,6 @@
 
 
 <style>
-    .container {
-        display: flex;
-    }
 
     .bubble.ai {
         justify-content: flex-start; /* Align AI messages to the left */
