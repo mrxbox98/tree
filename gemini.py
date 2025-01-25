@@ -1,6 +1,8 @@
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyA7ZyBsBf9RgIkyBNcapRlmr7OWC5aelQ8")
+api_key = "" # go to https://docs.google.com/document/d/1QcAMJKvMPwxMO1G_pKUr9XzOeZturz-Ikk0yMArQH7c/edit?usp=sharing to find the api key
+
+genai.configure(api_key=api_key)
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 location = "Cleveland, Ohio"
