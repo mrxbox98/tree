@@ -4,7 +4,7 @@
     export let color = "grey";
     export let float = "left"
 
-    if (type == "ai") {
+    if (type == "ai" || type == "waiting") {
         color = "#49cc9a";
     }
     else {
@@ -15,7 +15,12 @@
 
 <div class="flex">
     <div class="bubble {type}" style="background-color: {color};">
-        {content}
+        {#if type !== "waiting"}
+            <!-- Render content if type is not "waiting" -->
+            {content}
+        {:else}
+            <img src="./loading.gif"/>
+        {/if}
     </div>
 </div>
 

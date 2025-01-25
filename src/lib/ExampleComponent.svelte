@@ -1,8 +1,9 @@
 <script lang="ts">
     export let name = 'world';
+    export let onclick = () => {}
 </script>
 
-<button>{name}</button>
+<button on:click={onclick}>{name}</button>
 
 <style>
     button {
