@@ -1,0 +1,1 @@
+<code>example component</code>
