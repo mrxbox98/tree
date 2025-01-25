@@ -1,0 +1,331 @@
+Amazon price info:
+
+[
+    {
+        "title": "Goldenrod Showy 1000 Seeds (Solidago speciosa) Heirloom - Open Pollinated",
+        "link": "https://amazon.com/Earthcare-Seeds-Goldenrod-Solidago-speciosa/dp/B0C6BJ16KS/ref=sr_1_1?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-1",
+        "price": "$9.15"
+    },
+    {
+        "title": "Everwilde Farms - 2000 Old Field Goldenrod Native Wildflower Seeds - Gold Vault Jumbo Seed Packet",
+        "link": "https://amazon.com/Everwilde-Farms-Goldenrod-Native-Wildflower/dp/B00HME5502/ref=sr_1_2?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-2",
+        "price": "$3.25"
+    },
+    {
+        "title": "Amazon's Choice: Overall Pick",
+        "link": "https://amazon.com/Butterfly-Asclepias-Pollinated-Seed-Needs/dp/B004G4THDM/ref=sr_1_3?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-3",
+        "price": "$6.99"
+    },
+    {
+        "title": "Organo Republic 18 Culinary Herbs Seeds Variety Pack - 10,180+ Heirloom, Non-GMO, Herbs Seeds for Outdoor and Indoor Home Gardening, Including Rosemary, Thyme, Oregano, Mint, Basil, Parsley",
+        "link": "https://amazon.com/sspa/click?ie=UTF8&spc=MToxODI4Mzk4Mzg5NDE3NjI0OjE3Mzc4Mzk3NTY6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDE2OTMwOTE1MjkwMjo6MDo6&url=%2FOrgano-Republic-Culinary-Herbs-Variety%2Fdp%2FB0CZS3FLPK%2Fref%3Dsxin_16_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.7e84ec01-2a14-45b9-9573-54e2a554d582%253Aamzn1.sym.7e84ec01-2a14-45b9-9573-54e2a554d582%26cv_ct_cx%3Dgoldenrod%2Bseeds%26keywords%3Dgoldenrod%2Bseeds%26pd_rd_i%3DB0CZS3FLPK%26pd_rd_r%3Df71f2ae6-c8db-426e-993f-b23e8787bcd2%26pd_rd_w%3DNRR59%26pd_rd_wg%3D8QEEW%26pf_rd_p%3D7e84ec01-2a14-45b9-9573-54e2a554d582%26pf_rd_r%3DXB4ECBPMNE4GRP7PXSM9%26qid%3D1737839756%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-1-e169343e-09af-4d41-85b1-8335fe8f32d0-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1",
+        "price": "$16.99"
+    },
+    {
+        "title": "Organo Republic 25 Winter Vegetable Garden Seeds Variety Pack for Outdoors & Indoor Home Gardening 6500+ Non-GMO Heirloom Seeds: Broccoli Beet Carrot Collard Lettuce Radish Spinach Pea Kohlrabi",
+        "link": "https://amazon.com/sspa/click?ie=UTF8&spc=MToxODI4Mzk4Mzg5NDE3NjI0OjE3Mzc4Mzk3NTY6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDIwNDgyOTM5NTQwMjo6MTo6&url=%2FVegetable-Planting-Outdoors-Gardening-Heirloom%2Fdp%2FB0973Q3TF7%2Fref%3Dsxin_16_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.7e84ec01-2a14-45b9-9573-54e2a554d582%253Aamzn1.sym.7e84ec01-2a14-45b9-9573-54e2a554d582%26cv_ct_cx%3Dgoldenrod%2Bseeds%26keywords%3Dgoldenrod%2Bseeds%26pd_rd_i%3DB0973Q3TF7%26pd_rd_r%3Df71f2ae6-c8db-426e-993f-b23e8787bcd2%26pd_rd_w%3DNRR59%26pd_rd_wg%3D8QEEW%26pf_rd_p%3D7e84ec01-2a14-45b9-9573-54e2a554d582%26pf_rd_r%3DXB4ECBPMNE4GRP7PXSM9%26qid%3D1737839756%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-2-e169343e-09af-4d41-85b1-8335fe8f32d0-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1",
+        "price": "$24.99"
+    },
+    {
+        "title": "Survival Vegetable Seeds Garden Kit Over 16,000 Seeds Non-GMO and Heirloom, Great for Emergency Bugout Survival Gear 35 Varieties Seeds for Planting Vegetables 35 Free Plant Markers Gardeners Basics",
+        "link": "https://amazon.com/sspa/click?ie=UTF8&spc=MToxODI4Mzk4Mzg5NDE3NjI0OjE3Mzc4Mzk3NTY6c3Bfc2VhcmNoX3RoZW1hdGljOjIwMDA0NjM4OTE3MDE1MTo6Mjo6&url=%2FVegetable-Emergency-Vegetables-Gardeners-Basics%2Fdp%2FB08S7S98L2%2Fref%3Dsxin_16_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.7e84ec01-2a14-45b9-9573-54e2a554d582%253Aamzn1.sym.7e84ec01-2a14-45b9-9573-54e2a554d582%26cv_ct_cx%3Dgoldenrod%2Bseeds%26keywords%3Dgoldenrod%2Bseeds%26pd_rd_i%3DB08S7S98L2%26pd_rd_r%3Df71f2ae6-c8db-426e-993f-b23e8787bcd2%26pd_rd_w%3DNRR59%26pd_rd_wg%3D8QEEW%26pf_rd_p%3D7e84ec01-2a14-45b9-9573-54e2a554d582%26pf_rd_r%3DXB4ECBPMNE4GRP7PXSM9%26qid%3D1737839756%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-3-e169343e-09af-4d41-85b1-8335fe8f32d0-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1",
+        "price": "$29.95"
+    },
+    {
+        "title": "Sereniseed Certified Organic Herb Seeds (10-Pack) – Non GMO, Heirloom – Seed Starting Video - Basil, Cilantro, Oregano, Thyme, Parsley, Lavender, Chives, Sage, Dill Seeds for Indoor & Outdoor Planting",
+        "link": "https://amazon.com/sspa/click?ie=UTF8&spc=MToxODI4Mzk4Mzg5NDE3NjI0OjE3Mzc4Mzk3NTY6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDUyMTY2NDE4NTMwMjo6Mzo6&url=%2FSereniseed-Certified-Organic-Collection-10-Pack%2Fdp%2FB08QLFM4GQ%2Fref%3Dsxin_16_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.7e84ec01-2a14-45b9-9573-54e2a554d582%253Aamzn1.sym.7e84ec01-2a14-45b9-9573-54e2a554d582%26cv_ct_cx%3Dgoldenrod%2Bseeds%26keywords%3Dgoldenrod%2Bseeds%26pd_rd_i%3DB08QLFM4GQ%26pd_rd_r%3Df71f2ae6-c8db-426e-993f-b23e8787bcd2%26pd_rd_w%3DNRR59%26pd_rd_wg%3D8QEEW%26pf_rd_p%3D7e84ec01-2a14-45b9-9573-54e2a554d582%26pf_rd_r%3DXB4ECBPMNE4GRP7PXSM9%26qid%3D1737839756%26sbo%3DRZvfv%252F%252FHxDF%252BO5021pAnSA%253D%253D%26sr%3D1-4-e169343e-09af-4d41-85b1-8335fe8f32d0-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1",
+        "price": "$9.89"
+    },
+    {
+        "title": "35 Medicinal & Tea Herb Seeds Variety Pack for Indoor & Outdoors. 16,335+ Non-GMO Heirloom Garden Seeds: Anise, Bergamot, Borage, Cilantro, Chamomile, Dandelion, Rosemary Seeds & More",
+        "link": "https://amazon.com/sspa/click?ie=UTF8&spc=MToxODI4Mzk4Mzg5NDE3NjI0OjE3Mzc4Mzk3NTY6c3Bfc2VhcmNoX3RoZW1hdGljOjMwMDMyMzkwOTMzMTgwMjo6NDo6&url=%2FMedicinal-Variety-Planting-Outdoors-Heirloom%2Fdp%2FB0CB1SQKG4%2Fref%3Dsxin_16_pa_sp_search_thematic_sspa%3Fcontent-id%3Damzn1.sym.7e84ec01-2a14-45b9-9573-54e2a554d582%253Aamzn1.sym.7e84ec01-2a14-45b9-9573-54e2a554d582%26cv_ct_cx%3Dgoldenrod%2Bseeds%26keywords%3Dgoldenrod%2Bseeds%26pd_rd_i%3DB0CB1SQKG4%26pd_rd_r%3Df71f2ae6-c8db-426e-993f-b23e8787bcd2%26pd_rd_w%3DNRR59%26pd_rd_wg%3D8QEEW%26pf_rd_p%3D7e84ec01-2a14-45b9-9573-54e2a554d582%26pf_rd_r%3DXB4ECBPMNE4GRP7PXSM9%26qid%3D1737839756%26sbo%3DTc8eqSFhUl4VwMzbE4fw%252Fw%253D%253D%26sr%3D1-5-e169343e-09af-4d41-85b1-8335fe8f32d0-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM%26psc%3D1",
+        "price": "$27.99"
+    },
+    {
+        "title": "Stiff Goldenrod (Solidago rigida) Seed Balls, Fall Planting, Bulk Seed Bombs (20)",
+        "link": "https://amazon.com/Stiff-Goldenrod-Solidago-rigida-Planting/dp/B0743LB2M5/ref=sr_1_4?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-4",
+        "price": "$16.50"
+    },
+    {
+        "title": "Seed Needs, Gold Yarrow Seeds - 500 Heirloom Seeds for Planting Achillea filipendulina - Attracts Monarchs/Pollinators (1 Pack)",
+        "link": "https://amazon.com/Seed-Needs-Yarrow-Achillea-filipendulina/dp/B003TUY6QC/ref=sr_1_5?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-5",
+        "price": "$4.49"
+    },
+    {
+        "title": "Everwilde Farms - 1000 Showy Goldenrod Native Wildflower Seeds - Gold Vault Jumbo Seed Packet",
+        "link": "https://amazon.com/Everwilde-Farms-Goldenrod-Native-Wildflower/dp/B00HME58WM/ref=sr_1_6?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-6",
+        "price": "$3.75"
+    },
+    {
+        "title": "Everwilde Farms - 2000 Canada Goldenrod Native Wildflower Seeds - Gold Vault Jumbo Seed Packet",
+        "link": "https://amazon.com/Everwilde-Farms-Canada-Goldenrod-Wildflower/dp/B00HME52LY/ref=sr_1_7?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-7",
+        "price": "$3.48"
+    },
+    {
+        "title": "Stiff Goldenrod Seeds (25 Seed Package)",
+        "link": "https://amazon.com/Stiff-Goldenrod-Seeds-Seed-Package/dp/B08XPS27LJ/ref=sr_1_8?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-8",
+        "price": "$3.79"
+    },
+    {
+        "title": "Everwilde Farms - 1750 Stiff Goldenrod Native Wildflower Seeds - Gold Vault Jumbo Seed Packet",
+        "link": "https://amazon.com/Everwilde-Farms-Goldenrod-Native-Wildflower/dp/B07CNBMCGN/ref=sr_1_9?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-9",
+        "price": "$3.48"
+    },
+    {
+        "title": "KVITER 100 Goldenrod Seeds for Planting (Solidago Canadensis) – Native Medicinal Canadian Golden Rod Herb Garden Seeds – Herbal Wild Perennial Flower Seeds for Planting Outdoors & Indoors",
+        "link": "https://amazon.com/KVITER-100-Seeds-Solidago-Goldenrod/dp/B0BZX5NY3Y/ref=sr_1_10?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-10",
+        "price": "$7.14"
+    },
+    {
+        "title": "Everwilde Farms - 2000 Riddell's Goldenrod Native Wildflower Seeds - Gold Vault Jumbo Seed Packet",
+        "link": "https://amazon.com/Everwilde-Farms-Riddells-Goldenrod-Wildflower/dp/B00HME57B4/ref=sr_1_11?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-11",
+        "price": "$3.48"
+    },
+    {
+        "title": "Goldenrod Seeds (About 100)",
+        "link": "https://amazon.com/Generic-Goldenrod-Seeds-About-100/dp/B0C8BZD8J4/ref=sr_1_12?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-12",
+        "price": "$3.50"
+    },
+    {
+        "title": "Everwilde Farms - 2000 Ohio Goldenrod Native Wildflower Seeds - Gold Vault Jumbo Seed Packet",
+        "link": "https://amazon.com/Everwilde-Farms-Goldenrod-Native-Wildflower/dp/B00HME56HO/ref=sr_1_13?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-13",
+        "price": "$3.48"
+    },
+    {
+        "title": "Old Field Goldenrod Seeds for Planting (50 Seeds) - Solidago nemoralis",
+        "link": "https://amazon.com/Old-Field-Goldenrod-Seeds-Planting/dp/B0BR8DC1T8/ref=sr_1_14?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-14",
+        "price": "$9.26"
+    },
+    {
+        "title": "Showy Goldenrod Solidago speciosa Meadow Wildflowers Premium Seeds for Planting Packet",
+        "link": "https://amazon.com/Goldenrod-Solidago-speciosa-Wildflowers-Seeds/dp/B0DG37JZ67/ref=sr_1_15?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-15",
+        "price": "$6.99"
+    },
+    {
+        "title": "Organic Goldenrod Herb C/S",
+        "link": "https://amazon.com/Organic-Goldenrod-Herb-C-S/dp/B00K6L8RDK/ref=sr_1_16?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-16",
+        "price": "$15.00"
+    },
+    {
+        "title": "Solidago (Goldenrod) Canadensis Golden Baby Perennial Seeds",
+        "link": "https://amazon.com/Solidago-Goldenrod-Canadensis-Perennial-Seeds/dp/B07KFJ13WF/ref=sr_1_17?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-17",
+        "price": "$6.95"
+    },
+    {
+        "title": "Ultimate Medicinal Herbs Collection - 36 Variety Pack of Herb Seeds for Growing Essential Healing Plants - Mixed Assortment for Homesteaders - Non-GMO Heirloom Varieties - Survival Garden Seeds",
+        "link": "https://amazon.com/Ultimate-Medicinal-Herbs-Collection-Homesteaders/dp/B0CF8374YX/ref=sr_1_18?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-18",
+        "price": "$39.97"
+    },
+    {
+        "title": "Showy Goldenrod (Solidago speciosa), Seed Packet, True Native Seed",
+        "link": "https://amazon.com/Goldenrod-Solidago-Certified-Seed-Native/dp/B00BUALKLW/ref=sr_1_19?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-19",
+        "price": "$9.23"
+    },
+    {
+        "title": "Stiff Goldenrod Seeds for Planting - 100+ Seeds - Oligoneuron rigidum - Heirloom & Open-Pollinated Variety, Attracts Bees, Non-GMO Pollinator-Friendly Native Wildflower Seeds",
+        "link": "https://amazon.com/Stiff-Goldenrod-Seeds-Planting-Pollinator-Friendly/dp/B0BC9ZQK6Y/ref=sr_1_20?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-20",
+        "price": "$11.99"
+    },
+    {
+        "title": "Monarch Butterfly Rescue Wildflower Seed Packet - 1oz, Open-Pollinated Wildflower, No Fillers, Annuals, Perennials and Milkweed Seeds for Monarch Butterfly 1oz",
+        "link": "https://amazon.com/Wildflower-Gardening-Open-Pollinated-Perennial-Butterfly/dp/B076VSZJ2W/ref=sr_1_21?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-21",
+        "price": "$9.99"
+    },
+    {
+        "title": "Rough Goldenrod (Solidago Rugosa), Seed Packet, True Native Seed",
+        "link": "https://amazon.com/Goldenrod-Solidago-Certified-Seed-Native/dp/B00BUAJIHK/ref=sr_1_22?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-22",
+        "price": "$9.25"
+    },
+    {
+        "title": "Honey Source Wildflower Seeds Mix for Honey Bees - 4oz, Premium Annual and Perennial Flower Seed Mix – Bulk Planting for Pollinator",
+        "link": "https://amazon.com/Honey-Source-Wildflower-Seeds-Bees/dp/B08NXX2VG6/ref=sr_1_23?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-23",
+        "price": "$15.99"
+    },
+    {
+        "title": "Organo Republic 16 Perennial Wildflower Seeds Mix for Indoor & Outdoors. 100,000+ Non-GMO, Heirloom Wildflower Garden Seeds, 4oz Packet for Growing Wild Flowers to Attract Bees, Butterflies & Birds",
+        "link": "https://amazon.com/Perennial-Wildflower-Planting-Outdoors-Butterflies/dp/B09T1GMS86/ref=sr_1_24?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-24",
+        "price": "$22.99"
+    },
+    {
+        "title": "The Old Farmer's Almanac Marigold Seeds (Petite Mixture) - Approx 200 Flower Seeds - Premium Non-GMO, Open Pollinated, USA Origin",
+        "link": "https://amazon.com/Old-Farmers-Almanac-Marigold-Open-Pollinated/dp/B08YY4PZJL/ref=sr_1_25?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-25",
+        "price": "$6.49"
+    },
+    {
+        "title": "23,000 Goldfields Seeds - Carpet of Low Growing Yellow Daisy Type of Wildflower for Sandy and Dry Clay Soils",
+        "link": "https://amazon.com/23-000-Goldfields-Seeds-Wildflower/dp/B09YBGM96J/ref=sr_1_26?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-26",
+        "price": "$12.99"
+    },
+    {
+        "title": "Wildflower Seeds Bulk, 2 Oz. 80,000+Seeds, Save the Bees Wild Flowers Seeds Mix-19 Non-GMO Varieties of Wildflower Seeds for Bees-Bee Friendly Wildflower Seeds-Pollinator Wildflower Seeds for Planting",
+        "link": "https://amazon.com/Package-000-Wildflower-Seeds-Collection/dp/B08P2GMM6L/ref=sr_1_27?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-27",
+        "price": "$20.87"
+    },
+    {
+        "title": "NatureZ Edge Marigold Seeds Mix, Over 5600 Seeds, Marigold Seeds for Planting Outdoors, Dainty Marietta, Petite French, Sparky French, and More",
+        "link": "https://amazon.com/NatureZ-Edge-Marigold-Planting-Outdoors/dp/B08D7SDXHM/ref=sr_1_28?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-28",
+        "price": "$8.99"
+    },
+    {
+        "title": "Goldenrod Alcohol-Free Liquid Extract, Organic Goldenrod (Solidago virgaurea L.) Dried Herb Glycerite 2 oz",
+        "link": "https://amazon.com/Goldenrod-Alcohol-FREE-Solidago-virgaurea-Glycerite/dp/B01A3O0SZY/ref=sr_1_29?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-29",
+        "price": "$19.96"
+    },
+    {
+        "title": "HOME GROWN Marigold Seeds Bulk Mix - 5600+ Crackerjack Marigold Flower Seeds for Planting Outdoors - Flowers Seed for Companion Planting - Wildflower African Marigold Seeds (Tagetes erecta)",
+        "link": "https://amazon.com/marigold-seeds-planting-outdoors-bulk/dp/B09KHDC56F/ref=sr_1_30?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-30",
+        "price": "$9.99"
+    },
+    {
+        "title": "Marigold Seeds Pack 1 oz - Over 9,250 Non-GMO Heirloom Marigold Seeds for Planting Indoor & Outdoor Gardening, Marigold Flower Seeds for Planting Home and Garden, Flowers Seeds in Individual Packet",
+        "link": "https://amazon.com/Marigold-Seeds-Pack-Gardening-Individual/dp/B0DKQCBB7N/ref=sr_1_31?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-31",
+        "price": "$9.99"
+    },
+    {
+        "title": "The Old Farmer's Almanac Marigold Seeds (Crackerjack Mix) - Approx 400 Flower Seeds - Premium Non-GMO, Open Pollinated",
+        "link": "https://amazon.com/Old-Farmers-Almanac-Marigold-Crackerjack/dp/B09VZTN57T/ref=sr_1_32?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-32",
+        "price": "$6.49"
+    },
+    {
+        "title": "HOME GROWN 15 Culinary Herb Seeds - Heirloom & Non GMO - High Germination Rate - Seeds for Planting Indoor Hydroponic or Outdoor Garden | Gardening Gift Men Women Gardeners Basil, Cilantro, Mint",
+        "link": "https://amazon.com/Culinary-Herb-Seeds-Vault-Gardening/dp/B07JCFWJ98/ref=sr_1_33?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-33",
+        "price": "$16.99"
+    },
+    {
+        "title": "Outsidepride 250 Seeds Perennial Monarda Didyma Scarlet Bee Balm Herb & Flower Seeds for Planting",
+        "link": "https://amazon.com/Outsidepride-Monarda-Didyma-Plant-Seeds/dp/B007SYFWFO/ref=sr_1_34?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-34",
+        "price": "$7.49"
+    },
+    {
+        "title": "1",
+        "link": "https://amazon.com/IPOTAO-1/dp/B09HK7VTY7/ref=sr_1_35?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-35",
+        "price": "$5.01"
+    },
+    {
+        "title": "Black Eyed Susan Seeds for Planting, 5000 Seeds, Giving You Beautiful Black Eyed Susan Flowers, Non-GMO, Heirloom Seed Varieties",
+        "link": "https://amazon.com/Planting-Beautiful-Flowers-Heirloom-Varieties/dp/B08NMW7MY1/ref=sr_1_36?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-36",
+        "price": "$4.95"
+    },
+    {
+        "title": "Outsidepride 5000 Seeds Annual Monarda Citriodora Lemon Bee Balm Herb & Flower Seeds for Planting",
+        "link": "https://amazon.com/Outsidepride-Monarda-Citriodora-Lemon-Flower/dp/B004HJIF9I/ref=sr_1_37?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-37",
+        "price": "$7.49"
+    },
+    {
+        "title": "The Old Farmer's Almanac Heirloom Lavender Seeds (Common English) - Approx 360 Seeds - Non-GMO, Open Pollinated",
+        "link": "https://amazon.com/Old-Farmers-Almanac-Lavender-English/dp/B09TZCMQYF/ref=sr_1_38?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-38",
+        "price": "$6.49"
+    },
+    {
+        "title": "Outsidepride Perennial White Dutch Clover Seed - 1/4 lbs. Nitrocoated, Inoculated Clover Seeds for Lawn Alternative, Erosion Control, Food Plots, Ground Cover, & Pasture Mixtures in USDA Zones 3-10",
+        "link": "https://amazon.com/Outsidepride-White-Dutch-Clover-Seed/dp/B00164QN9Q/ref=sr_1_39?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-39",
+        "price": "$7.99"
+    },
+    {
+        "title": "The Old Farmer's Almanac Bachelors Buttons Seeds - Approx 500 Flower Seeds - Non-GMO, Premium, Open Pollinated",
+        "link": "https://amazon.com/Old-Farmers-Almanac-Bachelors-Buttons/dp/B09VZQ8YK6/ref=sr_1_40?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-40",
+        "price": "$6.49"
+    },
+    {
+        "title": "The Old Farmer's Almanac Premium Wildflower Seeds (23 Variety Pollinator Mix) - Non-GMO, Open Pollinated - Columbine Cosmos Foxglove Larkspur Poppy Snapdragon Zinnia... Attracts Butterflies Bees Birds",
+        "link": "https://amazon.com/Old-Farmers-Almanac-Wildflower-Pollinator/dp/B09564TJZR/ref=sr_1_41?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-41",
+        "price": "$6.49"
+    },
+    {
+        "title": "100+ Seeds Showy Goldenrod Seeds Perennial Native Wildflower Pollinators Autumn Flowers eldcy (Seeds)",
+        "link": "https://amazon.com/Goldenrod-Perennial-Wildflower-Pollinators-Flowers/dp/B0CR4HD6SY/ref=sr_1_42?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-42",
+        "price": "$16.88"
+    },
+    {
+        "title": "Outsidepride 1000 Seeds Perennial New England Aster Wild Flower Seeds for Planting",
+        "link": "https://amazon.com/Outsidepride-England-Aster-Wildflower-Seed/dp/B004HJ4XQW/ref=sr_1_43?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-43",
+        "price": "$7.49"
+    },
+    {
+        "title": "Outsidepride Yellow Sweet Clover Seed - 5 lbs Biennial, Drought-Tolerant, Frost-Resistant, Nitrocoated, Inoculated Yellow Clover Seeds Cover Crop for Forage, Honey Production, & Pollinators",
+        "link": "https://amazon.com/Outsidepride-Biennial-Building-Production-Pollinators/dp/B006F6KUQM/ref=sr_1_44?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-44",
+        "price": "$34.99"
+    },
+    {
+        "title": "Perennial Sunflower Seeds for Planting - Plant & Grow Maximilian Sun Flowers in Your Home Outdoor Garden - 500 Non GMO Heirloom Seeds - Full Planting Packet with Instructions for Easy Grow, 1 Packet",
+        "link": "https://amazon.com/Perennial-Sunflower-Seeds-Planting-Instructions/dp/B0C3FT9W89/ref=sr_1_45?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-45",
+        "price": "$4.98"
+    },
+    {
+        "title": "Package of 100,000 Wildflower Seeds - Save The Bees Wild Flower Seeds Collection - 45 Varieties of Pure Non-GMO Flower Seeds for Planting Including Milkweed, Poppy, and Lupine",
+        "link": "https://amazon.com/Package-100-000-Wildflower-Seeds/dp/B0D2WSGMQ7/ref=sr_1_46?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-46",
+        "price": "$22.87"
+    },
+    {
+        "title": "Gayfeather Seeds - Liatris Seeds, 500 Seeds, Blazing Star Plant, Vibrant Perennial Liatris, Ideal for Garden Beds & Borders, Easy to Grow, Stunning Vertical Flowers, Perfect for Landscapes",
+        "link": "https://amazon.com/Marde-Ross-Company-Gayfeather-Seeds/dp/B09RJKD1K5/ref=sr_1_47?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-47",
+        "price": "$12.99"
+    },
+    {
+        "title": "Outsidepride 1000 Seeds Perennial Monarda Fistulosa Wild Bergamot Herb & Flower Seeds for Planting",
+        "link": "https://amazon.com/Outsidepride-Monarda-Fistulosa-Mintleaf-Balm/dp/B004HJGHI4/ref=sr_1_48?dib=eyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk&dib_tag=se&keywords=goldenrod+seeds&qid=1737839756&sr=8-48",
+        "price": "$7.49"
+    },
+    {
+        "title": "Scotts Turf Builder WinterGuard Fall Lawn Food - Fall Fertilizer for Strong Grass Roots, 5,000 sq. ft, 12.5 lbs. (2-Pack)",
+        "link": "https://amazon.com/sspa/click?ie=UTF8&spc=MTo0MzI2MjAxOTEwNzI1NDI6MTczNzgzOTc1NjpzcF9idGY6MzAwMzk3NzM1NzUxNzAyOjowOjo&url=%2FScotts-Turf-Builder-WinterGuard-Fall%2Fdp%2FB0B7XW428C%2Fref%3Dsr_1_49_sspa%3Fdib%3DeyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk%26dib_tag%3Dse%26keywords%3Dgoldenrod%2Bseeds%26qid%3D1737839756%26sr%3D8-49-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+        "price": "$52.99"
+    },
+    {
+        "title": "Scotts Turf Builder WinterGuard Fall Weed & Feed3, Weed Killer Plus Fall Fertilizer, 12,000 sq. ft, 34.3 lbs.",
+        "link": "https://amazon.com/sspa/click?ie=UTF8&spc=MTo0MzI2MjAxOTEwNzI1NDI6MTczNzgzOTc1NjpzcF9idGY6MzAwMzk3NzM1NzUxODAyOjowOjo&url=%2FScotts-Builder-WinterGuard-Killer-Fertilizer%2Fdp%2FB0BGMLFMMW%2Fref%3Dsr_1_50_sspa%3Fdib%3DeyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk%26dib_tag%3Dse%26keywords%3Dgoldenrod%2Bseeds%26qid%3D1737839756%26sr%3D8-50-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+        "price": "$110.60"
+    },
+    {
+        "title": "Organo Republic 25 Winter Vegetable Garden Seeds Variety Pack for Outdoors & Indoor Home Gardening 6500+ Non-GMO Heirloom Seeds: Broccoli Beet Carrot Collard Lettuce Radish Spinach Pea Kohlrabi",
+        "link": "https://amazon.com/sspa/click?ie=UTF8&spc=MTo0MzI2MjAxOTEwNzI1NDI6MTczNzgzOTc1NjpzcF9idGY6MzAwMjA0ODI5Mzk1NDAyOjowOjo&url=%2FVegetable-Planting-Outdoors-Gardening-Heirloom%2Fdp%2FB0973Q3TF7%2Fref%3Dsr_1_51_sspa%3Fdib%3DeyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk%26dib_tag%3Dse%26keywords%3Dgoldenrod%2Bseeds%26qid%3D1737839756%26sr%3D8-51-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+        "price": "$24.99"
+    },
+    {
+        "title": "Burpee Strawberry Blonde Marigold Seeds 50 seeds",
+        "link": "https://amazon.com/sspa/click?ie=UTF8&spc=MTo0MzI2MjAxOTEwNzI1NDI6MTczNzgzOTc1NjpzcF9idGY6MzAwNTEzNjkyNjk1ODAyOjowOjo&url=%2FBurpee-Strawberry-Blonde-Marigold-Seeds%2Fdp%2FB078GY1C3F%2Fref%3Dsr_1_52_sspa%3Fdib%3DeyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk%26dib_tag%3Dse%26keywords%3Dgoldenrod%2Bseeds%26qid%3D1737839756%26sr%3D8-52-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+        "price": "$9.99"
+    },
+    {
+        "title": "Organo Republic 18 Culinary Herbs Seeds Variety Pack - 10,180+ Heirloom, Non-GMO, Herbs Seeds for Outdoor and Indoor Home Gardening, Including Rosemary, Thyme, Oregano, Mint, Basil, Parsley",
+        "link": "https://amazon.com/sspa/click?ie=UTF8&spc=MTo0MzI2MjAxOTEwNzI1NDI6MTczNzgzOTc1NjpzcF9idGY6MzAwMTY5MzA5MTUyOTAyOjowOjo&url=%2FOrgano-Republic-Culinary-Herbs-Variety%2Fdp%2FB0CZS3FLPK%2Fref%3Dsr_1_53_sspa%3Fdib%3DeyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk%26dib_tag%3Dse%26keywords%3Dgoldenrod%2Bseeds%26qid%3D1737839756%26sr%3D8-53-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+        "price": "$16.99"
+    },
+    {
+        "title": "NatureZ Edge Marigold Seeds Mix, Over 5600 Seeds, Marigold Seeds for Planting Outdoors, Dainty Marietta, Petite French, Sparky French, and More",
+        "link": "https://amazon.com/sspa/click?ie=UTF8&spc=MTo0MzI2MjAxOTEwNzI1NDI6MTczNzgzOTc1NjpzcF9idGY6MzAwMTU0MjIyNjM2MDAyOjowOjo&url=%2FNatureZ-Edge-Marigold-Planting-Outdoors%2Fdp%2FB08D7SDXHM%2Fref%3Dsr_1_54_sspa%3Fdib%3DeyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk%26dib_tag%3Dse%26keywords%3Dgoldenrod%2Bseeds%26qid%3D1737839756%26sr%3D8-54-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+        "price": "$8.99"
+    },
+    {
+        "title": "Cilantro Seeds",
+        "link": "https://amazon.com/sspa/click?ie=UTF8&spc=MTo0MzI2MjAxOTEwNzI1NDI6MTczNzgzOTc1NjpzcF9idGY6MzAwNjIwMzU1MDc2NDAyOjowOjo&url=%2Fbulk-cilantro-seeds-planting-outdoors%2Fdp%2FB09V2WB4TK%2Fref%3Dsr_1_55_sspa%3Fdib%3DeyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk%26dib_tag%3Dse%26keywords%3Dgoldenrod%2Bseeds%26qid%3D1737839756%26sr%3D8-55-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+        "price": "$9.99"
+    },
+    {
+        "title": "The Old Farmer's Almanac Marigold Seeds (Crackerjack Mix) - Approx 400 Flower Seeds - Premium Non-GMO, Open Pollinated",
+        "link": "https://amazon.com/sspa/click?ie=UTF8&spc=MTo0MzI2MjAxOTEwNzI1NDI6MTczNzgzOTc1NjpzcF9idGY6MzAwMDQ3NjI1MDgyMzAyOjowOjo&url=%2FOld-Farmers-Almanac-Marigold-Crackerjack%2Fdp%2FB09VZTN57T%2Fref%3Dsr_1_56_sspa%3Fdib%3DeyJ2IjoiMSJ9.8SKgesQjSrWjNMfnQlhIq7dcQylV39Bsf9rLcoUWQc7XGUiM0dZgM46OQ5N_hVNiPCkTf7NXUfeT92yqwwqRfKn2pryG8QOgiThYZ8-fz5DgxkXcRSrvdFxMJKyO_EF1FWx8GfrFf7-BPpIL3Yfo1RnE3dI_HiqNw1VElZoIcFHVN0OZJ8ChrGsozRFzNVUoonkSCd1XjaU0z7A4UQ0ZkmaIWCmBm6mJ5lXHoJq07_zz7ikM6oLA8JlmRx32lZPxVeAwm8k140JVxaEMWSNxW60FOiAJNJSXr1FXT5aYjN0.9FWzXRSHM9f-ubOarHBWNkHJAD7Z8YChd6LQbXVQXOk%26dib_tag%3Dse%26keywords%3Dgoldenrod%2Bseeds%26qid%3D1737839756%26sr%3D8-56-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+        "price": "$6.49"
+    }
+]
+
+
+Plants:
+
+[
+    "goldenrod",
+    "sunflower",
+    "strawberry",
+    "joe-pye weed, thoroughwort, do ...",
+    "violet",
+    "bulb panic grass,  maidencane, ...",
+    "deer vetch, trefoil",
+    "false indigo, indigobush, lead ...",
+    "oak",
+    "beach plum, cherry, chokecherr ...",
+    "willow",
+    "birch",
+    "aspen, cottonwood, poplar",
+    "maple, boxelder",
+    "crabapple, apple",
+    "hickory, pecan, pignut, bitter ..."
+]
