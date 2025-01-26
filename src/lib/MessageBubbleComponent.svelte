@@ -1,5 +1,6 @@
 <script>
     import { getAmazonPrices } from "$lib/client";
+    import { onMount } from "svelte";
     import HoverFlowerComponent from "./HoverFlowerComponent.svelte";
 
     export let content = "Error";
@@ -33,13 +34,21 @@
     }
 
     async function scanMessage() {
+        scanning = true;
+
         const plantMatches = content.match(/\*([^*]+)\*/g); // Find text between asterisks
         const plants = plantMatches ? plantMatches.map(plant => plant.replace(/\*/g, '')) : []; // Clean the asterisks
         let hoverFlowerComponents = await loadPlants(plants);
         console.log(hoverFlowerComponents)
+
+        scanning = false;
     }
 
+    let scanning = false;
+
     $: if (type == "ai") scanMessage()
+
+    //$: if (type == "ai") scanMessage()
 
     if (type == "ai" || type == "waiting") {
         color = "#49cc9a";
@@ -52,7 +61,7 @@
 
 <div class="flex">
     <div class="bubble {type}" style="background-color: {color};">
-        {#if type !== "waiting"}
+        {#if type !== "waiting" && !scanning}
             <!-- Render content if type is not "waiting" -->
             {content}
         {:else}
