@@ -5,12 +5,14 @@
     <div class="text-container">
         YourPlantFriend
     </div>
+
 </div>
 
 <style>
     .container {
         position: absolute;
         width: 100%;
+        color: black;
         display: flex; /* Make the child divs align in a row */
         align-items: center; /* Vertically align items within the row */
         gap: 10px; /* Add space between the two divs */
