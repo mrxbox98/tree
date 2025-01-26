@@ -1,5 +1,5 @@
 <script lang="ts">
-    import { getAmazonPrices } from "$lib/client";
+    import { DATA, getAmazonPrices } from "$lib/client";
 
     export let flower = "";
 
@@ -14,13 +14,27 @@
 
         console.log("Hovered");
 
-        let amazonPrices = await getAmazonPrices(mainel.textContent+" seeds");
+        console.log(mainel.textContent);
 
-        console.log(amazonPrices);
+        //let amazonPrices = await getAmazonPrices(mainel.textContent+" seeds");
 
-        info = amazonPrices[0];
+        //console.log(amazonPrices);
+
+        //info = amazonPrices.find((el: {
+        //    title: string;
+        //}) => el.title.toLowerCase().includes("seed") || el.title.toLowerCase().includes("plant"));
 
         console.log(info);
+
+        if(info==undefined) {
+            let f = DATA.find((el) => el.name.toLowerCase().includes(mainel.textContent.toLowerCase().split(",")[0]))
+
+            info = {
+                title: f?.name,
+                link: f?.url,
+                img: f?.img,
+            }
+        }
 
         box.style.top = `${mainel.getBoundingClientRect().top + mainel.getBoundingClientRect().height}px`;
         box.style.left = `${mainel.getBoundingClientRect().left}px`;
