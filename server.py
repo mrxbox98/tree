@@ -55,12 +55,22 @@ print(response) # prints response - change this to output in the text box
 
 @app.post("/generate")
 def generate(previous: PrevMessage):
+	if previous.userInput == '/conclude':
+		print('concuding')
+		final_prompt = f"Recommend me at most 3 plants native to {previous.location} that also fulfill the preferences I outlined in our conversation: {previous.previousMessage}. This is a list of plants that are native to {previous.location}: {single_string}. Only recommend me plants from this list. Respond with several plants from this list, their scientific name, and a medium-length description that a gardener might value. Rank your results in order of most recommended to least recommended. Do not include any other information. For each plant, give your response in the following format: [rank. $plant name$ (scientific name): description]. Do not include any other formatting. Do not include asteriks around the scientific name."
+
+		response = model.generate_content(final_prompt).text # gets the ai response
+
+		print(response)
+
+		return response
+
 	# master_instructions: master prompt; forces ai to only talk about plants
-	master_instructions = "Your role is a plant expert giving advice to people in form of conversation"
-	# pre_prompt: general prompt; also gives the ai our dataset
+	master_instructions = "Your role is a plant expert giving advice to people in form of conversation and your customer don't want to be asked many questions. Ask questions if needed though."
+
 	pre_prompt = f"Recommend several plants native to {previous.location}. This is a list of plants that are native to {previous.location}: {single_string}. Here are the history of the conversation so far ["
 	# post_prompt: tells ai how to return their recommendations
-	post_prompt = "]. If the requirements inside of the brackets are not related to plants, ignore them. If the information is not enough, ask more question for clarification. Every metions of plants names must be listed in between two dollar signs (Example: you want $apple$)"
+	post_prompt = "]. If the requirements inside of the brackets are not related to plants, ignore them. Every metions of plants names must be listed in between two dollar signs (Example: you want $apple$)"
 	prompt = master_instructions + pre_prompt + previous.previousMessage + previous.userInput + post_prompt # final prompt
 	#prompt = master_instructions + pre_prompt + previous.userInput + post_prompt + " PREVIOUS CHAT: " + previous.previousMessage # final prompt
 
