@@ -3,7 +3,7 @@
     import MessageBubbleComponent from "./MessageBubbleComponent.svelte";
 
     let messages = [
-        { content: "Hi, I am plant. How can I help you", type: "ai" },
+        { content: "Hi, I am plant. How can I help you?", type: "ai" },
     ];
 
     let loading = false;

@@ -55,7 +55,7 @@
     //$: if (type == "ai") scanMessage()
 
     if (type == "ai" || type == "waiting") {
-        color = "#49cc9a";
+        color = "#8CC342";
     }
     else {
         color = "#cdd1d0";
