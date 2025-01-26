@@ -1,6 +1,8 @@
 <script lang="ts">
     import { getAmazonPrices } from "$lib/client";
 
+    export let flower = "";
+
     let mainel: HTMLElement;
 
     let info: any = undefined
@@ -30,7 +32,7 @@
     let box: HTMLElement;
 </script>
 
-<code bind:this={mainel} class="{loading ? 'cursor-wait' : ''}" onmouseover={onHover}>Rose</code>
+<code bind:this={mainel} class="{loading ? 'cursor-wait' : ''}" onmouseover={onHover}>{flower}</code>
 
 <div bind:this={box} class="w-[200px] absolute hidden p-2 rounded-lg shadow-lg shadow-gray-500/50">
     {#if info}
