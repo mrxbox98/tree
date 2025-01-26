@@ -39,6 +39,8 @@
             }
         })
 
+        messages.pop();
+
         let res = await req.json();
 
         let AIresponse = res;

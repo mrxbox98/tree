@@ -20,7 +20,7 @@ class PrevMessage(BaseModel):
 	location: str
 	previousMessage: str
 
-api_key = "AIzaSyCQg7xjQMZzq_6w8HnbtmHudqy0nhVLODQ" # go to https://docs.google.com/document/d/1QcAMJKvMPwxMO1G_pKUr9XzOeZturz-Ikk0yMArQH7c/edit?usp=sharing to find the api key
+api_key = "AIzaSyBDSQv_MawXg_3k3Uh6DDJ1zY1lDJluLWk" # go to https://docs.google.com/document/d/1QcAMJKvMPwxMO1G_pKUr9XzOeZturz-Ikk0yMArQH7c/edit?usp=sharing to find the api key
 
 # configure gemini
 genai.configure(api_key=api_key)
