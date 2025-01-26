@@ -39,10 +39,12 @@
     let infos: any[] = []
 
     async function scanMessage() {
+        console.log(content)
+
         scanning = true;
 
-        const plantMatches = content.match(/\*([^*]+)\*/g); // Find text between asterisks
-        const plants = plantMatches ? plantMatches.map(plant => plant.replace(/\*/g, '')) : []; // Clean the asterisks
+        const plantMatches = content.match(/\$([^*]+)\$/g); // Find text between asterisks
+        const plants = plantMatches ? plantMatches.map(plant => plant.replace(/\$/g, '')) : []; // Clean the asterisks
         //let hoverFlowerComponents = await loadPlants(plants);
         //console.log(hoverFlowerComponents)
 
@@ -67,7 +69,7 @@
 <div class="flex">
     <div class="bubble {type}" style="background-color: {color};">
         {#if type !== "waiting" && !scanning}
-            {#each content.split(/\*([^*]+)\*/g) as part, i}
+            {#each content.replaceAll('*', '').split('$') as part, i}
                 {#if i%2==1}
                     <HoverFlower flower={part} />
                 {:else}

@@ -15,15 +15,27 @@
     async function callAPI(message: string) {
         messages = [...messages, { content: "...", type: "waiting" }];
         loading = true;
+        let previousMessage = '';
+
+        for (let message of messages) {
+            previousMessage += message.type+": " + message.content + "\n";
+        }
 
         let location = await getLatLong();
         let city = await getCity(location.lat, location.long);
 
-        let req = await fetch(
-            `http://database.emblems.report:8000/generate/${encodeURIComponent(
-                message
-            )}/${encodeURIComponent(city)}`
-        );
+        let req = await fetch(`http://database.emblems.report:8000/generate`, {
+            method: "POST",
+            body: JSON.stringify({
+                previousMessage,
+                location: city,
+                userInput: message,
+            }),
+            headers: {
+                "Content-Type": "application/json",
+            }
+        })
+        messages.pop();
 
         let res = await req.json();
 
