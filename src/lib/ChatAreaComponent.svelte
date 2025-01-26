@@ -39,8 +39,6 @@
 
         let res = await req.json();
 
-        messages.pop();
-
         let AIresponse = res;
         messages = [...messages, { content: AIresponse, type: "ai" }];
 
