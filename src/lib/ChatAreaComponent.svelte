@@ -13,16 +13,19 @@
     let showHelpModal = false; // Control the visibility of the help modal
 
     async function callAPI(message: string) {
-        messages = [...messages, { content: "...", type: "waiting" }];
-        loading = true;
         let previousMessage = '';
+
 
         for (let message of messages) {
             previousMessage += message.type+": " + message.content + "\n";
         }
 
+        messages = [...messages, { content: "...", type: "waiting" }];
+        loading = true;
+        
         let location = await getLatLong();
         let city = await getCity(location.lat, location.long);
+
 
         let req = await fetch(`http://database.emblems.report:8000/generate`, {
             method: "POST",
@@ -35,7 +38,6 @@
                 "Content-Type": "application/json",
             }
         })
-        messages.pop();
 
         let res = await req.json();
 
