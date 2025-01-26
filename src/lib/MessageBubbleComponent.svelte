@@ -17,11 +17,11 @@
          */
         let hoverFlowerComponents = []
 
-        for (let i = 0; i < plants.length; i++) {
-            const plant = plants[i];
+        await Promise.all(plants.map(async (el, i) => {
+            const plant = el;
             const info = await getAmazonPrices(plant+" seeds"); 
 
-            infos.push(info[0]);
+            infos[i] = info[0]
 
             hoverFlowerComponents.push({
                 component: HoverFlowerComponent,  
@@ -30,9 +30,9 @@
                     info: info[0]    
                 }      
             });
-        }
+        }))
         
-        return hoverFlowerComponents;
+        //return hoverFlowerComponents;
     }
 
     let infos: any[] = []
