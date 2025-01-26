@@ -1,4 +1,4 @@
-<script>
+<script lang='ts'>
     import { getAmazonPrices } from "$lib/client";
     import { onMount } from "svelte";
     import HoverFlowerComponent from "./HoverFlowerComponent.svelte";
@@ -11,7 +11,7 @@
     /**
      * @param {any} plants
      */
-    async function loadPlants(plants) {
+    async function loadPlants(plants: string[]) {
         /**
          * @type {any[]}
          */
@@ -19,7 +19,9 @@
 
         for (let i = 0; i < plants.length; i++) {
             const plant = plants[i];
-            const info = await getAmazonPrices(plant); 
+            const info = await getAmazonPrices(plant+" seeds"); 
+
+            infos.push(info[0]);
 
             hoverFlowerComponents.push({
                 component: HoverFlowerComponent,  
@@ -32,6 +34,8 @@
         
         return hoverFlowerComponents;
     }
+
+    let infos: any[] = []
 
     async function scanMessage() {
         scanning = true;
@@ -62,8 +66,13 @@
 <div class="flex">
     <div class="bubble {type}" style="background-color: {color};">
         {#if type !== "waiting" && !scanning}
-            <!-- Render content if type is not "waiting" -->
-            {content}
+            {#each content.split(/\*([^*]+)\*/g) as part, i}
+                {#if i%2==1}
+                    <HoverFlowerComponent flower={part} info={infos[(i-1)/2]} />
+                {:else}
+                    <span class="{i%2==1 ? 'font-bold' : ''}">{part}</span>
+                {/if}
+            {/each}
         {:else}
             <img src="./loading.gif"/>
         {/if}
