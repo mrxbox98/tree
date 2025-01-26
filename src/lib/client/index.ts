@@ -13,7 +13,7 @@ export async function getLatLong() {
     })
 }
 
-export const APIBASE = "http://localhost:3000";
+export const APIBASE = "http://database.emblems.report:3030";
 
 export async function getZipCode(lat: number, long: number) {
     let req = await fetch(`${APIBASE}/location?lat=${lat}&lon=${long}`);

@@ -13,10 +13,10 @@
         loading = true;
         await new Promise((resolve) => setTimeout(resolve, 5000)); 
         messages.pop();
-        messages = [...messages]
 
-        let AIresponse = "Hello";
+        let AIresponse = "Hi, there is two plants on this text. \n I am *Rose* and I am *Iris*";
         messages = [...messages, { content: AIresponse, type: "ai" }];
+
         loading = false;
     }
 
