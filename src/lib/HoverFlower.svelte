@@ -12,10 +12,6 @@
     async function onHover() {
         loading = true
 
-        console.log("Hovered");
-
-        console.log(mainel.textContent);
-
         //let amazonPrices = await getAmazonPrices(mainel.textContent+" seeds");
 
         //console.log(amazonPrices);
@@ -27,7 +23,7 @@
         console.log(info);
 
         if(info==undefined) {
-            let f = DATA.find((el) => el.name.toLowerCase().includes(mainel.textContent.toLowerCase().split(",")[0]))
+            let f = DATA.find((el) => (el.name.toLowerCase()+"s").includes(mainel.textContent.toLowerCase().split(",")[0]))
 
             info = {
                 title: f?.name,
