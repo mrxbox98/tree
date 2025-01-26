@@ -1,5 +1,6 @@
-<script>
+<script lang="ts">
     import ChatBarComponent from "./ChatBarComponent.svelte";
+    import { getCity, getLatLong } from "./client";
     import MessageBubbleComponent from "./MessageBubbleComponent.svelte";
 
     let messages = [
@@ -8,13 +9,21 @@
 
     let loading = false;
 
-    async function callAPI(message) {
+    async function callAPI(message: string) {
         messages = [...messages, { content: "...", type: "waiting" }];
         loading = true;
         await new Promise((resolve) => setTimeout(resolve, 5000)); 
         messages.pop();
 
-        let AIresponse = "Hi, there is two plants on this text. \n I am *Rose* and I am *Iris*";
+        let location = await getLatLong();
+
+        let city = await getCity(location.lat, location.long);
+
+        let req = await fetch(`http://database.emblems.report:8000/generate/${encodeURIComponent(message)}/${encodeURIComponent(city)}`)
+
+        let res = await req.json();
+
+        let AIresponse = res;
         messages = [...messages, { content: AIresponse, type: "ai" }];
 
         loading = false;

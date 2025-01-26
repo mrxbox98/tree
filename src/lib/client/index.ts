@@ -23,6 +23,14 @@ export async function getZipCode(lat: number, long: number) {
     return res.zipCode;
 }
 
+export async function getCity(lat: number, long: number) {
+    let req = await fetch(`${APIBASE}/location?lat=${lat}&lon=${long}`);
+
+    let res = await req.json();
+
+    return res.city;
+}
+
 export async function getPlants(zipCode: number) {
     let req = await fetch(`${APIBASE}/trees?zipCode=${zipCode}`);
 

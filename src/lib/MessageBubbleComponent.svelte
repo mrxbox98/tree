@@ -2,6 +2,7 @@
     import { getAmazonPrices } from "$lib/client";
     import { onMount } from "svelte";
     import HoverFlowerComponent from "./HoverFlowerComponent.svelte";
+    import HoverFlower from "./HoverFlower.svelte";
 
     export let content = "Error";
     export let type;
@@ -42,8 +43,8 @@
 
         const plantMatches = content.match(/\*([^*]+)\*/g); // Find text between asterisks
         const plants = plantMatches ? plantMatches.map(plant => plant.replace(/\*/g, '')) : []; // Clean the asterisks
-        let hoverFlowerComponents = await loadPlants(plants);
-        console.log(hoverFlowerComponents)
+        //let hoverFlowerComponents = await loadPlants(plants);
+        //console.log(hoverFlowerComponents)
 
         scanning = false;
     }
@@ -68,9 +69,9 @@
         {#if type !== "waiting" && !scanning}
             {#each content.split(/\*([^*]+)\*/g) as part, i}
                 {#if i%2==1}
-                    <HoverFlowerComponent flower={part} info={infos[(i-1)/2]} />
+                    <HoverFlower flower={part} />
                 {:else}
-                    <span class="{i%2==1 ? 'font-bold' : ''}">{part}</span>
+                    <span class="{i%2==1 ? 'font-bold' : ''} whitespace-pre-line">{part}</span>
                 {/if}
             {/each}
         {:else}
