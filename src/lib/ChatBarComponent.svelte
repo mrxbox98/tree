@@ -16,7 +16,7 @@
 <div class="c">
     <input 
     class="chat-input" 
-    placeholder="Ask me anything"
+    placeholder="Ask me anything about plant"
     bind:value={message}
     on:keydown={(event) => event.key == "Enter" && sendMessage()}
     disabled={disabled}/>
@@ -27,7 +27,7 @@
 <style>
     .chat-input {
         width: calc(100% - 70px);
-        border: 1px solid #49cc9a;
+        border: 1px solid #8CC342;
         border-radius: 10px;
         margin: 10px 0;
         padding: 10px;
@@ -36,7 +36,7 @@
     }
 
     .chat-input:focus {
-        border: 2px solid #49cc9a; /* Increase border width */
+        border: 2px solid #8CC342; /* Increase border width */
     }
 
 </style>

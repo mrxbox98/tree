@@ -9,8 +9,6 @@
     let loading = false;
 
     async function onHover() {
-        console.log("Hovered with info " + info);
-
         if (info) {
             box.style.top = `${mainel.getBoundingClientRect().top + mainel.getBoundingClientRect().height}px`;
             box.style.left = `${mainel.getBoundingClientRect().left}px`;
@@ -18,19 +16,6 @@
 
             return;
         }
-
-        loading = true;
-        let amazonPrices = await getAmazonPrices(mainel.textContent + " seeds");
-
-        info = amazonPrices[0];
-
-        console.log(info);
-
-        box.style.top = `${mainel.getBoundingClientRect().top + mainel.getBoundingClientRect().height}px`;
-        box.style.left = `${mainel.getBoundingClientRect().left}px`;
-        box.style.display = "block";
-
-        loading = false;
     }
 
     function leave() {
@@ -47,7 +32,7 @@
 <code
     bind:this={mainel}
     class={loading ? "cursor-wait" : ""}
-    onmouseover={onHover} onmouseleave={leave}>{flower}</code
+    onmouseover={onHover} onmouseleave={leave}><b><i>{flower}</i></b></code
 >
 
 <div
