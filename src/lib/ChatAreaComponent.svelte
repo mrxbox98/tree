@@ -12,14 +12,15 @@
     async function callAPI(message: string) {
         messages = [...messages, { content: "...", type: "waiting" }];
         loading = true;
-        await new Promise((resolve) => setTimeout(resolve, 5000)); 
-        messages.pop();
+        //await new Promise((resolve) => setTimeout(resolve, 5000)); 
+       
 
         let location = await getLatLong();
 
         let city = await getCity(location.lat, location.long);
 
         let req = await fetch(`http://database.emblems.report:8000/generate/${encodeURIComponent(message)}/${encodeURIComponent(city)}`)
+        messages.pop();
 
         let res = await req.json();
 

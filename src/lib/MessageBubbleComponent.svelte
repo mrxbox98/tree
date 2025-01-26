@@ -67,7 +67,7 @@
 <div class="flex">
     <div class="bubble {type}" style="background-color: {color};">
         {#if type !== "waiting" && !scanning}
-            {#each content.split(/\*([^*]+)\*/g) as part, i}
+            {#each content.split(/\*\*([^*]+)\*\*/g) as part, i}
                 {#if i%2==1}
                     <HoverFlower flower={part} />
                 {:else}
