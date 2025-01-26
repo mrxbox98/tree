@@ -29,7 +29,7 @@ master_instructions = "Your role is to give recommendations on plants by providi
 # pre_prompt: general prompt; also gives the ai our dataset
 pre_prompt = f"Recommend several plants native to {location}. This is a list of plants that are native to {location}: {single_string}. The plants should also fulfill the following requirements: ["
 # post_prompt: tells ai how to return their recommendations
-post_prompt = "]. If the requirements inside of the brackets are not related to plants, ignore them. Respond with a list of plants, their scientific name, and a medium-length description that a gardener might value. Rank your results in order of most recommended to least recommended. Do not include any other information. For each plant, give your response in the following format: [rank. plant name *scientific name*: description]. Do not include any other formatting. Do not include asteriks around the scientific name."
+post_prompt = "]. If the requirements inside of the brackets are not related to plants, ignore them. Respond with a list of plants, their scientific name, and a medium-length description that a gardener might value. Rank your results in order of most recommended to least recommended. Do not include any other information. For each plant, give your response in the following format: [rank. **plant name** (scientific name): description]. Do not include any other formatting. Do not include asteriks around the scientific name."
 
 prompt = master_instructions + pre_prompt + user_input + post_prompt # final prompt
 
